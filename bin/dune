@@ -1,0 +1,4 @@
+(executable
+ (public_name oculator)
+ (name main)
+ (libraries oculator bogue))
